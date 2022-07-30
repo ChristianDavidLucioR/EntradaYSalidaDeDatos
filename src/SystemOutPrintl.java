@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class EntradaYSalidaDeDatos {
+public class SystemOutPrintl {
 
     public static void main(String[] args) {
 
